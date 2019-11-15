@@ -1,0 +1,71 @@
+<svg id="icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="500" height="500" viewBox="0 0 500 500">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""/>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1 {
+        fill: #002121;
+      }
+
+      .cls-2 {
+        font-size: 48px;
+        filter: url(#filter);
+        text-anchor: middle;
+        font-family: Roboto;
+        font-weight: 500;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill-rule: evenodd;
+        filter: url(#filter-2);
+      }
+    </style>
+    <filter id="filter" x="129" y="364" width="265" height="87" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dx="10" dy="17.321" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="4.472"/>
+      <feFlood result="flood" flood-opacity="0.2"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-2" x="158" y="113" width="221" height="237" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dx="10" dy="17.321" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="4.472"/>
+      <feFlood result="flood" flood-opacity="0.2"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <rect class="cls-1" y="-3" width="500" height="503"/>
+  <text id="Info_Pages" data-name="Info Pages" class="cls-2" x="250.022" y="403.522">Info Pages</text>
+  <path class="cls-3" d="M199.117,173.865h74.942v16.054H199.117V173.865Zm0,26.756h74.942v16.055H199.117V200.621Zm0-53.513h37.471v16.054H199.117V147.108Zm107.06,80.271V140.151L281.018,115H167V286.243h99.478A42.821,42.821,0,1,0,306.177,227.379Zm-42.824,42.81h-80.3V131.054h91v16.054h16.059V230.5A42.815,42.815,0,0,0,263.353,270.189Zm42.824,26.757a26.757,26.757,0,1,1,26.764-26.757A26.791,26.791,0,0,1,306.177,296.946Zm-5.621-26.757H311.8v18.73H300.556v-18.73Zm5.621-18.729a7.492,7.492,0,1,1-7.5,7.491A7.493,7.493,0,0,1,306.177,251.46Z"/>
+</svg>

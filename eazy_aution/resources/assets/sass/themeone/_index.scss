@@ -1,0 +1,45 @@
+.site-content{
+	padding-top:30px;
+	padding-bottom:30px;
+}
+
+.blog-content{
+	padding-top:30px;
+	padding-bottom:30px;
+	
+	.blog-area{
+		.blogs{
+			.blog-post{
+				margin-bottom:0;
+				.blog-thumb{
+					position: relative;
+					height: 250px;
+					overflow: hidden;
+					
+					.blog-title{
+						position: absolute;
+						left: 10px;
+						top: 10px;
+						z-index:99;
+						
+						a{
+							color:$white;
+							text-shadow:2px 2px 2px rgba(0, 0, 0, 0.10);
+							text-decoration:none;
+							
+							&:hover, &:focus{
+								color:theme-color("secondary");
+							}
+						}
+						
+						.badge{
+							position: relative;
+							top: -1px;
+							left: 2px;
+						}
+					}
+				}
+			}
+		}
+	}
+}

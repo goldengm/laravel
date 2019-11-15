@@ -1,0 +1,25 @@
+.orders-detail-area{
+	.row{
+		margin-bottom:40px;
+		
+		.card-box{
+			.card{
+				margin-bottom:10px;
+				min-height:170px;
+				
+				.card-body{
+					.card-text{
+						p{
+							strong{
+								margin-right:5px;
+							}
+						}
+						p:last-child{
+							margin-bottom:0;
+						}
+					}
+				}
+			}
+		}
+	}
+}

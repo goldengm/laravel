@@ -1,0 +1,69 @@
+.registration-area{
+	min-height:500px;
+	margin-bottom:40px;
+		
+	
+    .facebook{
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		
+		background-color: $facebook;
+        color: $white;
+		
+        margin-left: 5px;
+        margin-right: 5px;		
+		padding-left:15px;
+		padding-right:15px;
+		
+		min-height:45px;
+        min-width: 100px;
+		
+		border-radius:$border-radius;
+        
+        &:hover, &:active{
+            color:$body-bg;
+            background-color:solid-darken($facebook);
+        }
+
+        .fa{
+			display:flex;
+			justify-content:center;
+			align-items:center;
+			
+			background-color:$white;
+			font-size:$font-size-base;
+			color:$facebook;
+
+			padding-left:5px;
+			padding-right:5px;
+			margin-right: 7px;
+			margin-left: 7px;
+			
+			height:25px;
+			width:25px;
+			
+			border-radius:$border-radius;
+        }
+    }
+    .google{
+		@extend.facebook;
+		background-color:$google;
+		
+        &:hover, &:active{
+            background-color:solid-darken($google);
+        }
+		.fa{
+			color:$google;
+        }
+    }
+	
+	strong{
+		font-size:$font-size-md;
+		color:theme-color("danger");
+	}
+}
+
+
+
+

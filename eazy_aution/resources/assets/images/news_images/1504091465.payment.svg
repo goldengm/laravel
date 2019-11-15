@@ -1,0 +1,63 @@
+<svg id="icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="500" height="500" viewBox="0 0 500 500">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""/>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1 {
+        fill: #002121;
+      }
+
+      .cls-2 {
+        font-size: 43px;
+        filter: url(#filter);
+        text-anchor: middle;
+        font-family: Roboto;
+        font-weight: 500;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill-rule: evenodd;
+      }
+    </style>
+    <filter id="filter" x="73" y="337" width="375" height="134" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dx="10" dy="17.321" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="4.472"/>
+      <feFlood result="flood" flood-opacity="0.2"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <rect class="cls-1" y="-3" width="500" height="503"/>
+  <text id="Multiple_Payment_Gateways" data-name="Multiple Payment Gateways" class="cls-2" x="249.021" y="372.522">Multiple Payment<tspan x="249.021" dy="51.6">Gateways</tspan></text>
+  <path class="cls-3" d="M258.426,225.306h63.712a3.76,3.76,0,0,0,3.982-3.979V185.51a3.761,3.761,0,0,0-3.982-3.979H258.426a3.76,3.76,0,0,0-3.982,3.979v35.817A3.76,3.76,0,0,0,258.426,225.306Zm3.981-35.816h55.749v27.857H262.407V189.49Zm-111.5-15.919h31.857a3.98,3.98,0,1,0,0-7.959H150.91A3.98,3.98,0,1,0,150.91,173.571Zm47.785,0h31.856a3.98,3.98,0,1,0,0-7.959H198.7A3.98,3.98,0,1,0,198.7,173.571ZM150.91,189.49h51.767a3.98,3.98,0,1,0,0-7.959H150.91A3.98,3.98,0,1,0,150.91,189.49Zm79.641-7.959H218.605a3.979,3.979,0,1,0,0,7.958h11.946A3.979,3.979,0,1,0,230.551,181.531Zm135.788-49.347a14.839,14.839,0,0,0-10.752-5.97l-9.557-1.157V105.919A15.97,15.97,0,0,0,330.1,90H146.928A15.97,15.97,0,0,0,131,105.919V233.266a15.98,15.98,0,0,0,11.411,15.258,15.49,15.49,0,0,0,14.075,15.782L340.456,285h1.592c7.965,0,15.132-5.969,15.928-13.53l11.947-127.745A15.463,15.463,0,0,0,366.339,132.184ZM138.964,117.857h199.1v23.878h-199.1V117.857Zm7.964-19.9H330.1a7.985,7.985,0,0,1,7.964,7.96V109.9h-199.1v-3.979A7.985,7.985,0,0,1,146.928,97.959Zm-7.964,135.306V149.694h199.1v83.571a7.985,7.985,0,0,1-7.965,7.959H146.929A7.985,7.985,0,0,1,138.964,233.265Zm222.994-91.132L350.012,269.878a8.031,8.031,0,0,1-8.76,7.163L157.68,256.347a8.048,8.048,0,0,1-7.168-7.163H330.1a15.97,15.97,0,0,0,15.928-15.918V132.582l9.159,0.8a6.807,6.807,0,0,1,5.176,2.785A8.055,8.055,0,0,1,361.958,142.133Z"/>
+</svg>

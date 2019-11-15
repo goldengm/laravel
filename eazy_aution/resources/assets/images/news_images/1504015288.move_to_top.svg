@@ -1,0 +1,71 @@
+<svg id="icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="500" height="500" viewBox="0 0 500 500">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""/>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1 {
+        fill: #002121;
+      }
+
+      .cls-2 {
+        font-size: 48px;
+        filter: url(#filter);
+        text-anchor: middle;
+        font-family: Roboto;
+        font-weight: 500;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill-rule: evenodd;
+        filter: url(#filter-2);
+      }
+    </style>
+    <filter id="filter" x="102" y="343" width="316" height="132" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dx="10" dy="17.321" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="4.472"/>
+      <feFlood result="flood" flood-opacity="0.2"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-2" x="182" y="88" width="158" height="237" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dx="10" dy="17.321" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="4.472"/>
+      <feFlood result="flood" flood-opacity="0.2"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <rect class="cls-1" y="-3" width="500" height="503"/>
+  <text id="Move_To_Top_Slider_Button" data-name="Move To Top Slider Button" class="cls-2" x="250.022" y="379.522">Move To Top<tspan x="250.022" dy="57.6">Slider Button</tspan></text>
+  <path id="Forma_1" data-name="Forma 1" class="cls-3" d="M298.042,288H202.958A11.958,11.958,0,0,1,191,276.07V101.93A11.958,11.958,0,0,1,202.958,90h95.084A11.958,11.958,0,0,1,310,101.93V276.07A11.958,11.958,0,0,1,298.042,288ZM202.958,96.279a5.664,5.664,0,0,0-5.664,5.651V276.07a5.665,5.665,0,0,0,5.664,5.651h95.084a5.665,5.665,0,0,0,5.664-5.651V101.93a5.664,5.664,0,0,0-5.664-5.651H202.958ZM250.5,279.64a11.931,11.931,0,1,1,11.958-11.93A11.958,11.958,0,0,1,250.5,279.64Zm0-17.581a5.651,5.651,0,1,0,5.664,5.651A5.664,5.664,0,0,0,250.5,262.059Zm45.628-10.739H204.872a3.143,3.143,0,0,1-3.147-3.14V113.337a3.144,3.144,0,0,1,3.147-3.14h91.256a3.144,3.144,0,0,1,3.147,3.14V248.18A3.143,3.143,0,0,1,296.128,251.32Zm-88.109-6.279h84.962V116.476H208.019V245.041Zm65.647-36.262H227.334a3.142,3.142,0,0,1-3.147-3.139V178.475h-2.645a3.138,3.138,0,0,1-2.178-5.405l28.957-27.706a3.153,3.153,0,0,1,4.357,0l28.957,27.706a3.138,3.138,0,0,1-2.179,5.405h-2.645V205.64A3.139,3.139,0,0,1,273.666,208.779ZM230.48,202.5h40.04V175.335a3.137,3.137,0,0,1,1.558-2.711L250.5,151.98l-21.578,20.645a3.136,3.136,0,0,1,1.558,2.71V202.5h0Zm25.75-95.966H244.77a3.14,3.14,0,1,1,0-6.279h11.46A3.14,3.14,0,1,1,256.23,106.534Z"/>
+</svg>

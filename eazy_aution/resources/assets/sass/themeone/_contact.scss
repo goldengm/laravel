@@ -1,0 +1,26 @@
+.contact-area{
+	min-height:500px;
+	margin-bottom:40px;
+	
+	.contact-list{
+		li{
+			display:flex;
+			align-items:center;
+			list-style: none;
+			font-size: ($font-size-base + 0.075);
+			margin-bottom: 10px;
+
+			.fa{
+				display:flex;
+				align-items:center;
+				justify-content:center;
+				margin-right:10px;
+				font-size:$font-size-md;
+				background-color:$body-bg-secondary;
+				color:theme-color("secondary");
+				height:30px;
+				width: 30px;
+			}
+		}
+	}
+}

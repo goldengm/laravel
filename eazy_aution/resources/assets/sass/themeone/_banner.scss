@@ -1,0 +1,42 @@
+.banner-content{
+	background-color:theme-color("primary");
+	padding: 30px 0;
+    position: relative;
+    overflow: hidden; 
+}
+
+.banner-single{
+	display:flex;
+	position:relative;
+	align-items:center;
+	justify-content:center;
+	border-right-width:$border-width;
+	border-right-style:solid;
+	border-right-color:$border-color;
+	
+   .panel{
+	   position:relative;
+		.fa{
+			float:left;
+			font-size:35px;
+			color: theme-color("secondary");
+			margin-bottom:0;
+			margin-right:15px;
+		}
+		.block{
+			float:left;
+			
+			.title{
+				color: color-yiq(theme-color("primary"));
+				font-size:$font-size-base;
+				margin-bottom:0;
+			}
+			p{
+				@extend.title;
+			}
+		}
+	}
+}
+.banner-single.last{
+	border-right-width: 0;
+}

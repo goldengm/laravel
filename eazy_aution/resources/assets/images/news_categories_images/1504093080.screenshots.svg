@@ -1,0 +1,79 @@
+<svg id="icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="500" height="500" viewBox="0 0 500 500">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""/>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1 {
+        fill: #002121;
+        filter: url(#filter);
+      }
+
+      .cls-2 {
+        font-size: 43px;
+        filter: url(#filter-2);
+        text-anchor: middle;
+        font-family: Roboto;
+        font-weight: 500;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill-rule: evenodd;
+        filter: url(#filter-3);
+      }
+    </style>
+    <filter id="filter" x="-9" y="-5" width="539" height="542" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dx="10" dy="17.321" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="4.472"/>
+      <feFlood result="flood" flood-opacity="0.2"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-2" x="114" y="386" width="294" height="73" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dx="10" dy="17.321" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="4.472"/>
+      <feFlood result="flood" flood-opacity="0.2"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-3" x="145" y="109" width="232" height="232" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dx="10" dy="17.321" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="4.472"/>
+      <feFlood result="flood" flood-opacity="0.2"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <rect class="cls-1" y="-3" width="500" height="503"/>
+  <text id="_Screen_Shots" data-name=" Screen Shots" class="cls-2" x="232.021" y="421.522">	Screen Shots</text>
+  <path id="Forma_1" data-name="Forma 1" class="cls-3" d="M344.626,193.8a7.727,7.727,0,0,0-5.654-2.388H321A72.692,72.692,0,0,0,266.588,137V119.03a8.156,8.156,0,0,0-8.044-8.042H242.458a8.156,8.156,0,0,0-8.043,8.042V137A72.694,72.694,0,0,0,180,191.414h-17.97a8.154,8.154,0,0,0-8.043,8.043v16.086a8.156,8.156,0,0,0,8.043,8.045H180A72.689,72.689,0,0,0,234.415,278v17.972a8.154,8.154,0,0,0,8.043,8.04h16.086a8.154,8.154,0,0,0,8.044-8.04V278A72.686,72.686,0,0,0,321,223.588h17.972a8.154,8.154,0,0,0,8.04-8.045V199.457A7.73,7.73,0,0,0,344.626,193.8Zm-59.568,27.4a7.743,7.743,0,0,0,5.655,2.389h13.7a56.36,56.36,0,0,1-37.825,37.825v-13.7a8.154,8.154,0,0,0-8.044-8.041H242.458a8.154,8.154,0,0,0-8.043,8.041v13.7a56.352,56.352,0,0,1-37.827-37.825h13.7a8.157,8.157,0,0,0,8.044-8.045V199.457a8.156,8.156,0,0,0-8.044-8.043h-13.7a56.346,56.346,0,0,1,37.827-37.826v13.7a8.158,8.158,0,0,0,8.043,8.043h16.086a8.158,8.158,0,0,0,8.044-8.043v-13.7a56.353,56.353,0,0,1,37.825,37.826h-13.7a8.152,8.152,0,0,0-8.041,8.043v16.086A7.732,7.732,0,0,0,285.058,221.2Z"/>
+</svg>

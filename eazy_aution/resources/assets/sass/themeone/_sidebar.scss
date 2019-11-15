@@ -1,0 +1,147 @@
+.sidebar{
+	.widget{
+		.block-title{
+			background-color:$body-bg-secondary;
+			border:$border-width solid $border-color;
+			padding:0.5625rem;
+			margin-bottom: -1px;
+			
+			h2{
+				font-size:$font-size-md;
+				margin-bottom:0;
+			}
+		}
+		.block-content{
+			background-color:$white;
+			border:$border-width solid $border-color;
+			margin-bottom:15px;
+			ul{
+				padding-left:0;
+				margin-bottom:0;
+			}
+		}
+	}
+	
+	.block-categories{
+		.list-categories{
+			li{
+				border-bottom:$border-width solid $border-color;
+				a{
+					display:block;
+					color:$body-color;
+					padding:0.5625rem;
+					
+					&:hover, &:focus{
+						background-color:solid-darken($body-bg);
+						color:$body-color;
+						text-decoration:none;
+					}
+				}
+			}
+			li:last-child{
+				border-bottom:none;
+			}
+		}
+	}
+	
+	.block-recent-posts{
+		
+		.media{
+			padding:0.5625rem;
+			border-bottom:$border-width solid $border-color;
+			
+			img{
+				width:70px;
+				margin-top:5px;
+				margin-right:10px;
+			}
+			
+			.media-body{
+				.media-title{
+					a{
+						font-size:$font-size-base;
+						font-weight:$font-weight-bold;
+						color:$body-color;
+						text-decoration:none;
+						
+						&:hover, &:focus{
+							color:theme-color("secondary");
+						}
+					}
+					.badge{
+						font-size:$font-size-sm;
+					}
+					
+				}
+				.media-content{
+					height:36px;
+					overflow: hidden;
+					margin-bottom:5px;
+					p{
+						font-size:$font-size-sm;
+						margin-bottom:0;
+						text-align: left;
+						display: -webkit-box;
+						-webkit-line-clamp: 2;
+						-webkit-box-orient: vertical; 
+						strong{
+							font-weight: normal;
+						}
+						
+						img{
+							display:none;
+						}
+					}
+				}
+				em{
+					font-size:$font-size-sm;
+					font-style:normal;
+					font-weight:$font-weight-bold;
+					color:$body-color-secondary;
+				}
+			}
+		}
+		.media:last-child{
+			border-bottom:none;
+		}
+	}
+	.block-tags{
+		.block-content{
+			padding:0.5625rem;
+			
+			.list-tags{
+			
+				li{
+					a{
+						display:block;
+						color:$body-color;
+						padding:0.3125rem;
+					}
+				}
+			}
+		}
+	}
+	.block-images{
+		.list-images{
+			padding-left:0;
+			li{
+				margin-bottom:15px;
+				
+				a{
+					display:block;
+					
+					img{
+						width:100%;
+					}
+					
+					&:hover{
+						img{
+							opacity:0.90;
+							box-shadow:0 0 20px rgba(0, 0, 0, 0.05);
+						}	
+					}
+				}
+			}
+		}
+	}
+}

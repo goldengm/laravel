@@ -1,0 +1,213 @@
+.footer-content{
+	padding-top:30px;
+	padding-bottom:30px;
+	
+	.footer-block{
+		display:flex;
+		justify-content:center;
+		
+		.single-footer{
+			width:50%;
+		}	
+	}
+    .single-footer{
+		h5{
+			font-size:$font-size-lg;
+			margin-bottom:15px;
+		}
+		.contact-list{
+            li{
+                display:flex;
+				align-items:center;
+                list-style: none;
+                font-size: ($font-size-base + 0.075);
+                margin-bottom: 10px;
+
+                .fa{
+					display:flex;
+					align-items:center;
+					justify-content:center;
+					margin-right:10px;
+					font-size:$font-size-md;
+					background-color:$body-bg-secondary;
+                    color:theme-color("secondary");
+					height:30px;
+                    width: 30px;
+                }
+				a{
+					color:$body-color;					
+					
+					&:hover{
+						color:theme-color("secondary");
+					}
+				}
+            }
+        }
+        .links-list{
+            li{
+                list-style: none;
+                display: block;
+				margin-bottom:7px;
+
+                a{
+					display:block;
+                    font-size: $font-size-base;
+                    color:$body-color;
+                    .fa{
+                        margin-right: 4px;
+                    }
+					
+					&:hover{
+						color:theme-color("secondary");
+					}
+                }
+            }
+        }
+        .cat-list{
+			li{
+				display:inline-block;
+				margin-bottom:5px;
+				margin-right:5px;
+				
+				a{
+					display:block;
+					font-size:($font-size-sm - 0.0500 );
+					border-radius:4px;
+					background-color:$body-bg-secondary;
+					padding-left:10px;
+					padding-right:10px;
+					padding-top:5px;
+					padding-bottom:5px;
+					color:$body-color;
+					text-decoration:none;
+					
+					
+					&:hover{
+						background-color:theme-color("secondary");
+						color:color-yiq(theme-color("secondary"));
+					}
+				}
+			}
+		}
+		.socials{
+			display:block;
+			
+			.list{
+				display:block;
+				padding-left:0;
+				margin-bottom:0;
+				li{
+					display:inline-block;
+					
+					a{
+						background-color:theme-color("primary");
+						color:theme-color("secondary");
+						font-size:22px;
+						width:40px;
+						height:40px;
+						display:flex;
+						justify-content:center;
+						align-items:center;
+						text-decoration:none;
+						border-radius:4px;
+						
+						
+						&:hover{
+							background-color:theme-color("secondary");
+							color:color-yiq(theme-color("secondary"));
+						}
+					}
+				}
+			}
+		}
+		.newsletter{
+			.block{
+				margin-bottom:15px;
+				position:relative;
+				input {
+					border-radius:0;
+					height: 50px;
+					width: 100%;
+					color:$body-color;
+					border: none;
+					background:$white;
+					padding: 0 20px;
+					font-size:$font-size-base;
+					
+					&:focus{
+						outline:none !important;
+					}
+				}
+				.btn {
+					position: absolute;
+					right: -1px;
+					top: 0px;
+					height: 50px;
+					padding: 0 30px;
+					border-radius:0;
+					
+					&:focus{
+						outline:none !important;
+					}
+				}	
+			}
+		}
+		p{
+            font-size: $font-size-base;
+        }
+    }
+}
+
+.footer{
+	.footer-image,  .footer-info{
+		display:flex;
+		align-items:center;
+	}
+    .footer-image{
+		justify-content:flex-start;
+    }
+	.footer-info{
+		justify-content:flex-end;
+        p{
+            font-size: $font-size-sm;
+			margin-bottom:0;
+			
+			a{
+				color:$body-color;
+				&:hover{
+					color:theme-color("secondary");
+				}
+			}
+        }
+    }
+	.container{
+		position:relative;
+		
+		.floating-top{
+			opacity: 0;
+			position: fixed;
+			right:15px;
+			bottom: 15px;
+			z-index:9999;
+
+			a{
+				text-align:center;
+				width: 50px;
+				line-height: 44px;
+				height: 50px;
+				background-color:$white;
+				border-radius: 200px;
+				color:$gray-700;
+				border:$border-width solid $border-color;
+				font-size: $font-size-lg;
+				text-decoration: none;
+				
+				&:hover{
+					background-color:theme-color("secondary");
+					border-color:theme-color("secondary");
+					color:color-yiq(theme-color("secondary"));
+				}
+			}
+		}
+	}
+}

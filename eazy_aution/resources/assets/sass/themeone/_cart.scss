@@ -1,0 +1,15 @@
+.cart-area{
+	display:block;
+	min-height:550px;
+	margin-bottom:40px;
+	
+	.cart-left{
+		padding-left:30px;
+		padding-right:30px;
+
+		form{
+			display:block;
+			width:100%;
+		}
+	}
+}

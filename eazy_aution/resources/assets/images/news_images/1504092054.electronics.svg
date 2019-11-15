@@ -1,0 +1,71 @@
+<svg id="icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="500" height="500" viewBox="0 0 500 500">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""/>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1 {
+        fill: #002121;
+      }
+
+      .cls-2 {
+        font-size: 43px;
+        filter: url(#filter);
+        text-anchor: middle;
+        font-family: Roboto;
+        font-weight: 500;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill-rule: evenodd;
+        filter: url(#filter-2);
+      }
+    </style>
+    <filter id="filter" x="135" y="386" width="251" height="73" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dx="10" dy="17.321" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="4.472"/>
+      <feFlood result="flood" flood-opacity="0.2"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-2" x="135" y="105" width="252" height="238" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dx="10" dy="17.321" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="4.472"/>
+      <feFlood result="flood" flood-opacity="0.2"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <rect class="cls-1" y="-3" width="500" height="503"/>
+  <text id="Electronics" class="cls-2" x="249.021" y="421.522">Electronics</text>
+  <path class="cls-3" d="M346.35,202.946V124.768A17.78,17.78,0,0,0,328.6,107H172.4a17.78,17.78,0,0,0-17.75,17.768v53.3A10.669,10.669,0,0,0,144,188.732V295.339A10.668,10.668,0,0,0,154.65,306h78.1a10.668,10.668,0,0,0,10.65-10.661h29.753a10.656,10.656,0,0,0,10.273-13.464l-6.979-25.625h20.2v39.089A10.668,10.668,0,0,0,307.3,306h39.05A10.668,10.668,0,0,0,357,295.339V213.607A10.669,10.669,0,0,0,346.35,202.946ZM236.3,295.339a3.558,3.558,0,0,1-3.55,3.554h-78.1a3.558,3.558,0,0,1-3.55-3.554v-7.107h85.2v7.107Zm0-14.214H151.1V202.946h85.2v78.179Zm0-85.286H151.1v-7.107a3.557,3.557,0,0,1,3.55-3.553h78.1a3.557,3.557,0,0,1,3.55,3.553v7.107Zm40.278,87.905a3.551,3.551,0,0,1-3.425,4.488H243.4v-7.107h32.465ZM243.4,274.018V256.25h25.688l4.842,17.768H243.4Zm53.25-24.875H243.4V227.821h53.25v21.322Zm0-35.536v7.107H243.4V188.732a10.669,10.669,0,0,0-10.65-10.661h-71v-53.3a10.668,10.668,0,0,1,10.65-10.661H328.6a10.668,10.668,0,0,1,10.65,10.661v78.178H307.3A10.669,10.669,0,0,0,296.65,213.607Zm53.25,81.732a3.558,3.558,0,0,1-3.55,3.554H307.3a3.558,3.558,0,0,1-3.55-3.554v-7.107H349.9v7.107Zm0-14.214H303.75v-53.3H349.9v53.3Zm0-60.411H303.75v-7.107a3.557,3.557,0,0,1,3.55-3.553h39.05a3.557,3.557,0,0,1,3.55,3.553v7.107Zm-187.112,33.02,14.2-14.215,5.02,5.026-14.2,14.214Zm14.2,10.661,42.6-42.643,5.02,5.025-42.6,42.644Zm7.1-31.978,21.3-21.32,5.021,5.025-21.3,21.321Zm127.8,21.322,17.747-17.764L334.65,241,316.9,258.765Zm7.1,14.23L336.728,250.2l5.02,5.026L324,272.994Zm-81.645-99.517,21.3-21.32,5.021,5.025-21.3,21.321Zm31.952-7.107,21.3-21.32,5.021,5.025-21.3,21.32Zm-21.3,21.326,14.2-14.215,5.02,5.025-14.2,14.215Zm17.73-42.6,14.235-14.25,5.02,5.025-14.235,14.25ZM168.85,121.214h7.1v7.107h-7.1v-7.107Zm14.2,0h7.1v7.107h-7.1v-7.107Zm14.2,0h7.1v7.107h-7.1v-7.107Z"/>
+</svg>

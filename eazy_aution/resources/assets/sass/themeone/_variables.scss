@@ -1,0 +1,173 @@
+//
+// Color system
+//
+
+$white:  #fff !default;
+$gray-100: #f9f9f9 !default;	// Body, Primary background color of website
+$gray-200: #f2f2f2 !default;	// Secondary background color of website
+$gray-300: #dee2e6 !default;
+$gray-400: #ced4da !default;	// All border color of website
+$gray-500: #adb5bd !default;	// Sub text color of website
+$gray-600: #868e96 !default;
+$gray-700: #5d5d60 !default;	// Body, Headings and Text color of website
+$gray-800: #343a40 !default;  
+$gray-900: #212529 !default;
+$black:  #000 !default;
+
+$blue:    #324D5C !default;		// Main, Primary color of website
+$teal:    #F0CA4D !default;		// Main Button, Secondary color of website
+$indigo:  #6610f2 !default;		// Secondary Button color of website
+
+$purple:  #6f42c1 !default;
+$pink:    #e83e8c !default;
+$red:     #ff0000 !default; 
+
+$orange:  #fd7e14 !default;
+$yellow:  #ffc107 !default;
+$green:   #28a745 !default;
+$cyan:    #17a2b8 !default;
+
+$grays: (
+  100: $gray-100,
+  200: $gray-200,
+  300: $gray-300,
+  400: $gray-400,
+  500: $gray-500,
+  600: $gray-600,
+  700: $gray-700,
+  800: $gray-800,
+  900: $gray-900
+) !default;
+
+
+$colors: (
+  blue: $blue,
+  indigo: $indigo,
+  purple: $purple,
+  pink: $pink,
+  red: $red,
+  orange: $orange,
+  yellow: $yellow,
+  green: $green,
+  teal: $teal,
+  cyan: $cyan,
+  white: $white,
+  gray: $gray-600,
+  gray-dark: $gray-800
+) !default;
+
+$theme-colors: (
+  primary: $blue,
+  secondary: $teal,
+  success: $green,
+  info: $cyan,
+  warning: $yellow,
+  danger: $red,
+  light: $gray-100,
+  dark: $gray-900
+  
+) !default;
+
+$facebook: #3B5998;
+$google: #ea4335;
+
+
+// Body
+$body-bg:				$gray-100 !default;
+$body-bg-secondary: 	$gray-200 !default;
+
+$body-color:			$gray-700 !default;
+$body-color-secondary:	$gray-500 !default;
+
+// Links
+//
+// Style anchor elements.
+
+$link-color:            $teal !default;
+
+// Grid containers
+//
+// Define the maximum width of `.container` for different screen sizes.
+
+$container-max-widths: (
+  sm: 540px,
+  md: 720px,
+  lg: 960px,
+  xl: 1220px
+) !default;
+
+//Fonts
+
+$font-family-sans-serif: 'Roboto', sans-serif !default;
+
+$font-size-lg:   1.25rem !default;		// 20px
+$font-size-md:   1rem !default;			// 16px
+$font-size-base: 0.875rem !default;		// Assumes the browser default, typically `14px`
+$font-size-sm:   0.8125rem !default;	// 13px
+
+$font-weight-light:           300 !default;
+$font-weight-normal:          400 !default;
+$font-weight-bold:            500 !default;
+$font-weight-bolder:          700 !default;
+$font-weight-bolder-xl:       900 !default;
+
+$font-weight-base:            $font-weight-normal !default;
+
+$h1-font-size:			$font-size-base * 2.5 !default;
+$h2-font-size:			$font-size-base * 2 !default;
+$h3-font-size:			$font-size-base * 1.75 !default;
+$h4-font-size:			$font-size-base * 1.5 !default;
+$h5-font-size:			$font-size-base * 1.25 !default;
+$h6-font-size:			$font-size-base !default;
+
+// Border
+
+$border-width:			1px !default;
+$border-color:			$gray-400 !default;
+
+$border-radius:			0 !default;
+$border-radius-sm:		0 !default;
+$border-radius-lg:		0 !default;
+
+
+// Buttons + Forms
+//
+// Shared variables that are reassigned to `$input-` and `$btn-` specific variables.
+
+$input-btn-focus-width:       0 !default;
+$input-btn-focus-color:       rgba($white, 0.0) !default;
+$input-btn-focus-box-shadow:  0 0 0 $input-btn-focus-width $input-btn-focus-color !default;
+
+// Buttons
+
+$btn-border-width:		0 !default;
+
+$btn-font-weight:		$font-weight-bold !default;
+$btn-box-shadow:		inset 0 1px 0 rgba($white, 0.0), 0 1px 1px rgba($black, 0.0) !default;
+$btn-focus-width:		$input-btn-focus-width !default;
+$btn-focus-box-shadow:	$input-btn-focus-box-shadow !default;
+
+$btn-active-box-shadow:	inset 0 3px 5px rgba($black, 0.0) !default;
+
+$btn-link-disabled-color:	$gray-600 !default;
+
+
+// Allows for customizing button radius independently from global border radius
+
+$btn-border-radius:		$border-radius !default;
+$btn-border-radius-lg:	$border-radius-lg !default;
+$btn-border-radius-sm:	$border-radius-sm !default;
+
+$btn-transition:		color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out !default;
+
+
+
+// Alerts
+//
+// Define alert colors, border radius, and padding.
+
+$alert-border-radius:	$border-radius !default;
+
+
+
+

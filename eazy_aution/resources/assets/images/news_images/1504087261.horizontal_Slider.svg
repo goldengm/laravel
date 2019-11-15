@@ -1,0 +1,71 @@
+<svg id="icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="500" height="500" viewBox="0 0 500 500">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""/>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1 {
+        fill: #002121;
+      }
+
+      .cls-2 {
+        font-size: 48px;
+        filter: url(#filter);
+        text-anchor: middle;
+        font-family: Roboto;
+        font-weight: 500;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill-rule: evenodd;
+        filter: url(#filter-2);
+      }
+    </style>
+    <filter id="filter" x="62" y="341" width="396" height="144" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dx="10" dy="17.321" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="4.472"/>
+      <feFlood result="flood" flood-opacity="0.2"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-2" x="104" y="80" width="314" height="246" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dx="10" dy="17.321" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="4.472"/>
+      <feFlood result="flood" flood-opacity="0.2"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <rect class="cls-1" y="-3" width="500" height="503"/>
+  <text id="Horizontal_Slider_On_Home_Page" data-name="Horizontal Slider  On Home Page" class="cls-2" x="254.021" y="379.522">Horizontal Slider <tspan x="254.021" dy="57.6">On Home Page</tspan></text>
+  <path class="cls-3" d="M383.09,82H117.911A4.917,4.917,0,0,0,113,86.93V284.068A4.918,4.918,0,0,0,117.911,289H383.09A4.918,4.918,0,0,0,388,284.068V86.93A4.917,4.917,0,0,0,383.09,82ZM122.821,126.358h44.2V215.07h-44.2V126.358ZM378.18,215.07H363.448V126.358H378.18V215.07Zm0-98.568H358.538a4.917,4.917,0,0,0-4.912,4.929V220a4.918,4.918,0,0,0,4.912,4.929H378.18v54.212H122.821V224.927h49.108A4.917,4.917,0,0,0,176.84,220V121.429a4.918,4.918,0,0,0-4.911-4.929H122.821V91.859H378.18V116.5ZM255.411,244.641a9.857,9.857,0,1,1-9.821,9.857A9.84,9.84,0,0,1,255.411,244.641Zm-58.929-19.712h137.5A4.918,4.918,0,0,0,338.894,220V121.429a4.917,4.917,0,0,0-4.911-4.927h-137.5a4.917,4.917,0,0,0-4.912,4.929V220A4.918,4.918,0,0,0,196.482,224.929Zm4.911-98.571H329.072V215.07H201.393V126.358ZM196.482,249.57h14.732v9.857H196.482V249.57Zm24.554,0h14.732v9.857H221.036V249.57Zm54.018,0h14.733v9.857H275.054V249.57Zm24.554,0h14.733v9.857H299.608V249.57Z"/>
+</svg>
