@@ -41,8 +41,8 @@ class AdminListingsController extends Controller
     }
 
     //addNewProduct
-    public function addnewlisting(Request $request)
-    {
+    public function addnewlisting(Request $request)    
+    {        
         if (session('listings_create') == 0) {
             print Lang::get("labels.You do not have to access this route");
         } else {
